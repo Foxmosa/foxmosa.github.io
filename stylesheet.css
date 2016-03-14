@@ -1,0 +1,11 @@
+div {
+    max-width: 700px;
+    margin: auto;
+}
+hr {
+    max-width: 800px;
+    margin: auto;
+}
+body{
+    background-color: lightcyan;
+}
